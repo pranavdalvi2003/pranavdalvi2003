@@ -1,83 +1,18 @@
-# Hi, I'm Pranav Dalvi 👋
+# 💫 About Me:
+Hi, I'm Pranav Dalvi 👋<br>🎓 B.E. Information Technology (GPA: 9.16/10)<br>🔬 AI Research Intern | Deep Learning | Sign Language Recognition | Scientific Computing<br>📍 Pune, India<br><br>I am an AI researcher and software engineer with strong foundations in deep learning, computer vision, and scientific computing.<br>My work spans Sign Language Recognition (SLR), spatiotemporal modeling, and MD–FEM simulations, alongside building scalable full-stack systems.<br><br>🔬 Research & Technical Interests<br>Continuous & Static Sign Language Recognition (ISL, WLASL)<br>CNN–LSTM & Attention-based Architectures<br>Spatiotemporal Feature Learning<br>Reinforcement Learning with Human Feedback (RLHF)<br>Scientific Machine Learning (MD–FEM simulations)<br>🧪 Professional Experience<br>Research Intern — RWTH International Academy<br>Aug 2025 – Present<br><br>Applied MD–FEM simulations to study mechanical, thermal, and structural behavior of nanocomposites.<br>Analyzed stress response, heat transfer, and interfacial effects at the nanoscale to optimize material performance.<br>Data Science Intern — Career Spectrum<br>Aug 2023 – Feb 2024<br><br>Designed and trained an MLP-based model with customized NLP preprocessing for personality inference.<br>Improved classification accuracy by 30% through optimized architecture and refined linguistic features.<br>UI/UX Intern — FinIQ<br>Jan 2025 – Feb 2025<br><br>Built responsive React.js interfaces and improved mobile user retention by 25% through UI/UX optimization.<br>📌 Selected Academic & Research Projects<br>Continuous Indian Sign Language Recognition<br>Deep learning framework using CNN + LSTM for spatiotemporal gesture modeling.<br><br>Hybrid SLR Framework (MobileNetV2 + Attention-LSTM)<br>Achieved 84.65% accuracy on the WLASL-100 dataset.<br><br>YOLOv4-based Static Sign Recognition<br>Real-time recognition of 80 static signs using a custom dataset and MediaPipe.<br><br>ISL Analysis & Synthesis (RGSTC Sponsored Project)<br>Gesture-to-sentence translation system using deep learning.<br><br>📄 Publications<br>Pranav K. Dalvi, Kirti Y. Digholkar<br>RLHF: Reinforcement Learning using Human Feedback for Optimization of ChatGPT<br>Grenze International Journal of Engineering and Technology, Vol. 10, No. 2, 2024.<br>🛠 Technical Skills<br>Languages: Python, C/C++, Java, JavaScript<br>ML / DL: PyTorch, TensorFlow, OpenCV<br>Simulation: MD–FEM (LAMMPS, fundamentals)<br>Web & Backend: React.js, Node.js, MongoDB, MySQL<br>Cloud & DevOps: AWS, Azure, GCP, Docker, Kubernetes, CI/CD<br>Tools: Git, Linux, LaTeX<br><br>🏆 Leadership<br>Web Development Head — PICT CSI Student Branch<br>Led website redesign using React.js, improving performance by 40% and enhancing user experience.<br>📫 Connect With Me<br>🔗 LinkedIn: https://linkedin.com/in/pranav-dalvi-26a37322a<br>🌐 Portfolio: https://pranavdalviportfolio.onrender.com<br>📧 Email: pranavdalvi2003@gmail.com<br>⭐ Focused on research rigor, reproducibility, and scalable engineering systems.
 
-🎓 B.E. Information Technology (GPA: 9.16/10)  
-🔬 AI Research Intern | Deep Learning | Sign Language Recognition | Scientific Computing  
-📍 Pune, India
 
-I am an **AI researcher and software engineer** with strong foundations in **deep learning, computer vision, and scientific computing**.  
-My work spans **Sign Language Recognition (SLR)**, **spatiotemporal modeling**, and **MD–FEM simulations**, alongside building **scalable full-stack systems**.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pkd_1711) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-dalvi-26a37322a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavdalvi2003@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=pranavdalvi2003&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=pranavdalvi2003&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=pranavdalvi2003&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🔬 Research & Technical Interests
-- Continuous & Static Sign Language Recognition (ISL, WLASL)
-- CNN–LSTM & Attention-based Architectures
-- Spatiotemporal Feature Learning
-- Reinforcement Learning with Human Feedback (RLHF)
-- Scientific Machine Learning (MD–FEM simulations)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 🧪 Professional Experience
-**Research Intern — RWTH International Academy**  
-*Aug 2025 – Present*  
-- Applied **MD–FEM simulations** to study mechanical, thermal, and structural behavior of nanocomposites.
-- Analyzed stress response, heat transfer, and interfacial effects at the nanoscale to optimize material performance.
-
-**Data Science Intern — Career Spectrum**  
-*Aug 2023 – Feb 2024*  
-- Designed and trained an **MLP-based model** with customized NLP preprocessing for personality inference.
-- Improved classification accuracy by **30%** through optimized architecture and refined linguistic features.
-
-**UI/UX Intern — FinIQ**  
-*Jan 2025 – Feb 2025*  
-- Built responsive React.js interfaces and improved **mobile user retention by 25%** through UI/UX optimization.
-
----
-
-## 📌 Selected Academic & Research Projects
-- **Continuous Indian Sign Language Recognition**  
-  Deep learning framework using CNN + LSTM for spatiotemporal gesture modeling.
-
-- **Hybrid SLR Framework (MobileNetV2 + Attention-LSTM)**  
-  Achieved **84.65% accuracy** on the WLASL-100 dataset.
-
-- **YOLOv4-based Static Sign Recognition**  
-  Real-time recognition of 80 static signs using a custom dataset and MediaPipe.
-
-- **ISL Analysis & Synthesis (RGSTC Sponsored Project)**  
-  Gesture-to-sentence translation system using deep learning.
-
----
-
-## 📄 Publications
-- **Pranav K. Dalvi**, Kirti Y. Digholkar  
-  *RLHF: Reinforcement Learning using Human Feedback for Optimization of ChatGPT*  
-  Grenze International Journal of Engineering and Technology, Vol. 10, No. 2, 2024.
-
----
-
-## 🛠 Technical Skills
-**Languages:** Python, C/C++, Java, JavaScript  
-**ML / DL:** PyTorch, TensorFlow, OpenCV  
-**Simulation:** MD–FEM (LAMMPS, fundamentals)  
-**Web & Backend:** React.js, Node.js, MongoDB, MySQL  
-**Cloud & DevOps:** AWS, Azure, GCP, Docker, Kubernetes, CI/CD  
-**Tools:** Git, Linux, LaTeX
-
----
-
-## 🏆 Leadership
-- **Web Development Head — PICT CSI Student Branch**  
-  Led website redesign using React.js, improving performance by **40%** and enhancing user experience.
-
----
-
-## 📫 Connect With Me
-- 🔗 LinkedIn: https://linkedin.com/in/pranav-dalvi-26a37322a
-- 🌐 Portfolio: https://pranavdalviportfolio.onrender.com
-- 📧 Email: pranavdalvi2003@gmail.com
-
----
-
-⭐ *Focused on research rigor, reproducibility, and scalable engineering systems.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
