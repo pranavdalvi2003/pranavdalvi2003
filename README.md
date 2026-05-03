@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Pranav Dalvi 👋<br>🎓 B.E. Information Technology (GPA: 9.16/10)<br>🔬 AI Research Intern | Deep Learning | Sign Language Recognition | Scientific Computing<br>📍 Pune, India<br><br>I am an AI researcher and software engineer with strong foundations in deep learning, computer vision, and scientific computing.<br>My work spans Sign Language Recognition (SLR), spatiotemporal modeling, and MD–FEM simulations, alongside building scalable full-stack systems.<br><br>🌐 Portfolio: https://pranavdalviportfolio.onrender.com<br>📧 Email: pranavdalvi2003@gmail.com<br>⭐ Focused on research rigor, reproducibility, and scalable engineering systems.
+Hi, I'm Pranav Dalvi 👋<br>🎓 B.E. Information Technology (GPA: 9.16/10)<br>🔬 AI Research Intern | Deep Learning | Sign Language Recognition | Scientific Computing<br>📍 Pune, India<br><br>I am an AI researcher and software engineer with strong foundations in deep learning, computer vision, and scientific computing.<br>My work spans Sign Language Recognition (SLR), spatiotemporal modeling, and MD–FEM simulations, alongside building scalable full-stack systems.<br><br>🌐 Portfolio: https://pranavdalviportfolio.onrender.com<br><br>⭐ Focused on research rigor, reproducibility, and scalable engineering systems.
 
 
 ## 🌐 Socials:
